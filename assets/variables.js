@@ -7,7 +7,7 @@ const variables = {
     night: "Good Night",
   },
   quotes: [
-    { quote: "HBD Caca,Wish You All The Best.", author: "Syahrul" },
+    { quote: "HBD Cacaaa,Wish You All The Best.", author: "Syahrul" },
     { quote: "Semoga apa yang disemogakan tersemogakan.", author: "Syahrul" },
     { quote: "Salam Jambrong.", author: "Syahrul" },
   ],
